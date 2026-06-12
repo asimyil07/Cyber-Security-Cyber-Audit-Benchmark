@@ -212,3 +212,14 @@ Among all evaluated models, Claude achieved the highest overall accuracy.
 Among open-weight models, Gemma delivered the strongest combination of accuracy, efficiency, and operational practicality.
 
 As LLM adoption within SOC and security teams continues to grow, Turkish-language evaluations remain an important component for organizations operating in local environments and regulatory contexts.
+
+**Disclaimer**
+
+This study is an independent personal research project and reflects the performance of the evaluated models at a specific point in time (June 2026).
+
+Results may vary depending on the prompts used, model versions, system configurations, inference settings, and testing environments. As AI models evolve rapidly, future performance may differ significantly from the results presented here.
+
+The findings should not be interpreted as investment advice, a guarantee of accuracy, or an endorsement of any particular model, vendor, or product. The benchmark is intended solely for informational and educational purposes.
+
+Any decisions, implementations, or business activities undertaken based on these results are the sole responsibility of the reader or organization. The authors assume no liability for any direct or indirect consequences arising from the use or interpretation of this analysis.
+
